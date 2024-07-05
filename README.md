@@ -10,7 +10,7 @@ to share their valuable knowledge by creating course and uploading it to server.
 Clone  from github and run it locally
 
 ```bash
-  git clone https://github.com/kchn9/know-e-learning.git
+  git clone https://github.com/abrshewube/e-learning-using-ruby-on-rails
   cd know-e-learning
   bin/rails s
 ```
